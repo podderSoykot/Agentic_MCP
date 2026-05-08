@@ -109,3 +109,7 @@ Full “AI Operating System” layer
 This system becomes:
 
 🧠 A personal AI operating system powered by MCP, capable of understanding files, resumes, jobs, and executing real-world tasks automatically.
+
+
+Name:Soykot Podder
+Mail: diptopodder95@gmail.com
