@@ -1,0 +1,20 @@
+{
+  "5fc6a564dbdf409aaffada5f00dbdaf7": {
+    "file_id": "5fc6a564dbdf409aaffada5f00dbdaf7",
+    "original_name": "features.txt",
+    "stored_name": "bd2d7c634ebb45b7a3f200719b45b689.txt",
+    "path": "F:\\Soykot_podder\\Agentic_MCP\\mcp-ai-system\\backend\\data\\uploads\\bd2d7c634ebb45b7a3f200719b45b689.txt",
+    "mime_type": "text/plain",
+    "size_bytes": 3258,
+    "uploaded_at": "2026-05-08T11:25:16.616653Z"
+  },
+  "36b9ffd983244ddaa34c86b75da76fab": {
+    "file_id": "36b9ffd983244ddaa34c86b75da76fab",
+    "original_name": "demo.txt",
+    "stored_name": "05c11fbb7ab042b0866380618086ec59.txt",
+    "path": "F:\\Soykot_podder\\Agentic_MCP\\mcp-ai-system\\backend\\data\\uploads\\05c11fbb7ab042b0866380618086ec59.txt",
+    "mime_type": "text/plain",
+    "size_bytes": 5,
+    "uploaded_at": "2026-05-08T11:26:18.488974Z"
+  }
+}

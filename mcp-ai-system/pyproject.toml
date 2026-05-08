@@ -1,0 +1,18 @@
+[project]
+name = "mcp-ai-system"
+version = "0.1.0"
+description = "AI-powered MCP server for resume and file intelligence."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi",
+  "python-multipart",
+  "uvicorn",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false
