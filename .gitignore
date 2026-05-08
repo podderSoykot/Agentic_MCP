@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data/Uploads (Optional, but usually recommended)
+mcp-ai-system/backend/data/uploads/*
+!mcp-ai-system/backend/data/uploads/.gitkeep
