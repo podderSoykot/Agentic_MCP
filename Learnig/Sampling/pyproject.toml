@@ -1,0 +1,10 @@
+[project]
+name = "sampling"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "loguru>=0.7.3",
+    "mcp>=1.27.1",
+]
